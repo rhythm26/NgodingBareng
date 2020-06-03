@@ -7,4 +7,5 @@ Ide yang akan dikerjakan
 commit ke sini maksudnya ya...
 
 ntah kenapa punya ku cssnya gak mau di bgn searchnya ya???
+it make mine so flat
 
